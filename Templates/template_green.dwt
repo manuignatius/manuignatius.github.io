@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Welcome to Dragonfly's a.k.a Manu Ignatius' Page</title>
+<!-- TemplateEndEditable -->
+<link href="../twoColLiqLtHdr.css" rel="stylesheet" type="text/css" /><!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.twoColLiqLtHdr #sidebar1 { padding-top: 30px; }
+.twoColLiqLtHdr #mainContent { zoom: 1; padding-top: 15px; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]-->
+<style type="text/css">
+<!--
+body {
+	background-image: url(../images/bg_green.jpg);
+	background-attachment:fixed;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+body,td,th {
+	color: #333;
+}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body class="twoColLiqLtHdr">
+
+<div id="container"> 
+  <div id="header">
+    <h1> <img src="../images/logo_green.png" width="314" height="63" /></h1>
+  <!-- end #header --></div>
+  <div id="sidebar1">
+    <table width="130" border="0">
+      <tr>
+        <td><img src="../images/brdr_left_top.gif" width="105" height="7" alt="top" /></td>
+      </tr>
+      <tr>
+        <td><p><a href="index.html" target="_self" class="contentgreen">HOME</a></p>
+        <p><a href="me.html" target="_self" class="contentgreen">ABOUT ME</a></p>
+        <p><a href="http://portfolio.thedragonflypage.com/" target="_new" class="contentgreen">PHOTOGRAPHY</a></p>
+        <p><a href="http://blog.thedragonflypage.com" target="_new" class="contentgreen">BLOG</a></p></td>
+      </tr>
+      <tr>
+        <td><img src="../images/brdr_left_bottom.gif" width="105" height="3" alt="btm" /></td>
+      </tr>
+    </table>
+    <p>&nbsp;</p>
+  </div>
+  <div id="mainContent">
+    <h1 class="heading1grey"><!-- TemplateBeginEditable name="content heading" --><span class="heading1red"><span class="heading1green">Main</span></span> Content<!-- TemplateEndEditable --></h1>
+    <p class="contentgrey"><!-- TemplateBeginEditable name="content" --><span class="contentgrey"><span class="contentred"><span class="contentgreen">Lorem</span></span> ipsum dolor sit amet, consectetuer adipiscing elit. Praesent aliquam,  justo convallis luctus rutrum, erat nulla fermentum diam, at nonummy quam  ante ac quam. Maecenas urna purus, fermentum id, molestie in, commodo  porttitor, felis. Nam blandit quam ut lacus. Quisque ornare risus quis  ligula. Phasellus tristique purus a augue </span><span class="contentred"><span class="contentgreen">condimentum</span></span><span class="contentgrey"> adipiscing. Aenean  sagittis. Etiam leo pede, rhoncus venenatis, tristique in, vulputate at,  odio. Donec et ipsum et sapien vehicula nonummy. Suspendisse potenti. Fusce  varius urna id quam. Sed neque mi, varius eget, tincidunt nec, suscipit id,  libero. In eget purus. </span><span class="contentred"><span class="contentgreen">Vestibulum</span></span><span class="contentgrey"> ut nisl. Donec eu mi sed turpis feugiat  feugiat. Integer turpis arcu, pellentesque eget, cursus et, fermentum ut,  sapien. Fusce metus mi, eleifend sollicitudin, molestie id, varius et, nibh.  Donec nec libero. </span><!-- TemplateEndEditable -->
+      <!-- end #mainContent -->
+    </p>
+</div>
+	<!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat" />
+  <div id="footer">
+    <p class="contentgrey">Copyright &copy; 2012-16 Manu Ignatius</p>
+  </div>
+</div>
+</body>
+</html>
