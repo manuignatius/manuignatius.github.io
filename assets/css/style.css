@@ -26,6 +26,150 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+/* External CSS */
+
+.fa {
+  padding: 30px;
+  font-size: 60px;
+  width: 82px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 1px;
+  border-radius: 50%;
+  border-style: solid;
+}
+
+.ai {
+  padding: 30px;
+  font-size: 60px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 1px;
+  border-radius: 50%;
+  border-style: solid;
+}
+
+.fas {
+  padding: 30px;
+  font-size: 60px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 1px;
+  border-radius: 50%;
+  border-style: solid;
+}
+
+.ai:hover {
+    opacity: 0.7;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  /*background: #3B5998;*/
+  color: #3B5998;
+}
+
+.fa-twitter {
+  /*background: #55ACEE;*/
+  color: #55ACEE;
+}
+
+.fa-envelope {
+  /*background: #dd4b39;*/
+  color: #dd4b39;
+}
+
+.fa-linkedin {
+  /*background: #007bb5;*/
+  color: #007bb5;
+}
+
+.fa-youtube {
+  /*background: #bb0000;*/
+  color: #bb0000;
+}
+
+.fa-instagram {
+  /*background: #125688;*/
+  color: #dd2a7b;
+}
+
+.fa-github {
+  /*background: #6e5494;*/
+  color: #6e5494;
+}
+
+.fa-external-link {
+  /*background: #6e5494;*/
+  color: #6e5494;
+}
+
+.fa-stack-overflow {
+  /*background: #ff6600;*/
+  color: #ff6600;
+}
+
+.ai-google-scholar-square {
+  /*background: #a4c639;*/
+  color: #a4c639;
+}
+
+.fa-flickr {
+  /*background: #f40083;*/
+  color: #f40083;
+}
+
+.fa-500px {
+  /*background: #555555;*/
+  color: #555555;
+}
+
+.fa-rss {
+  /*background: #555555;*/
+  color: #ff6600;
+}
+
+#instafeed a {
+  padding:5px 5px 1px 5px;
+  margin:10px;
+  border:1px solid #e1e1e1;
+  display:inline-block;
+  border-radius: 4px;
+  position:relative;
+}
+
+#instafeed .likes {
+  background:rgba(176,76,76,0.8);
+  font-family:sans-serif;
+  font-size:1em;
+  position:absolute;
+  color:#ffffff;
+  right:5px;
+  top:5px;
+  left:5px;
+  opacity:0;
+  text-align:center;
+  line-height:150px;
+  text-shadow:0 1px rgba(0,0,0,0.5);
+  -webkit-font-smoothing:antialiased;
+  -webkit-transition: opacity 100ms ease;
+    -moz-transition: opacity 100ms ease;
+    -o-transition: opacity 100ms ease;
+    -ms-transition: opacity 100ms ease;
+    transition: opacity 100ms ease;
+}
+
+#instafeed a:hover .likes {
+  opacity:1;
+}
+
+/* External CSS */
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
